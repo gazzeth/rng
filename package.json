@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "solidity-coverage": "^0.7.16"
+  }
+}
