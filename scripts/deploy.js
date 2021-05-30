@@ -5,7 +5,7 @@ async function main() {
     const rng = await Rng.deploy();
     console.log("Contract address:", rng.address);
 }
-  
+
 main()
     .then(() => process.exit(0))
     .catch(error => {
